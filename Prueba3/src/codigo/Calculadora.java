@@ -6,7 +6,7 @@ public class Calculadora {
 		// TODO Auto-generated method stub
         int a=10;
         int b=50;
-       System.out.println("Resulado"+ (a+b));
+       System.out.println("Resulado"+ (a*b));
 	}
 
 }
